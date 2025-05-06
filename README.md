@@ -3,7 +3,7 @@
 Um projeto simples e funcional de reconhecimento de placas veiculares em tempo real utilizando **Python**, **OpenCV** e **EasyOCR**.
 
 <div align="center">
-  <img src="demo.gif" alt="Demonstração do jogo" width="600">
+  <img src="demo.gif" alt="Demonstração do jogo" width="400">
 </div>
 
 ## 📸 O que o projeto faz?
