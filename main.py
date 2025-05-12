@@ -49,7 +49,7 @@ def Verifica_Placa():
 
 while True:
     ret, frame = cap.read()
-    frame = cv2.flip(frame, 1)
+    frame = frame
 
     if(time.time() - tempo > tempo_espera):
         passou, placa = Verifica_Placa() 

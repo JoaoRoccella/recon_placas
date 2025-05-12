@@ -2,10 +2,6 @@
 
 Um projeto simples e funcional de reconhecimento de placas veiculares em tempo real utilizando **Python**, **OpenCV** e **EasyOCR**.
 
-<div align="center">
-  <img src="demo.gif" alt="Demonstração do jogo" width="400">
-</div>
-
 ## 📸 O que o projeto faz?
 
 Este projeto utiliza a câmera do computador para capturar imagens, processa os quadros para detectar e reconhecer textos (como placas de veículos) e verifica se a placa está autorizada para liberar ou negar passagem.
